@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=app-emulation/vagrant dev-vcs/git
+DESCRIPTION=Vagrant bash command-line completions
+EAPI=5
+HOMEPAGE=https://github.com/kura/vagrant-bash-completion
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=app-emulation/vagrant
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_compile:- src_install:-
+_eclasses_=bash-completion-r1	b1fc4d30333bb528c8abb4332bb70ea6	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=41e6007e90518c8ba3e7fc9ab46fdaa9
