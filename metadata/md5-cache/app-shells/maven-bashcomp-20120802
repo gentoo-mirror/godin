@@ -7,5 +7,5 @@ RDEPEND=app-shells/bash-completion dev-java/maven-bin
 SLOT=0
 SRC_URI=https://github.com/Godin/maven-bash-completion/tarball/09bffd7074b7b30281864a906e4e07727ef4d4f8 -> Godin-maven-bash-completion-09bffd7.tar.gz
 _eclass_exported_funcs=pkg_postinst:- src_prepare:- src_install:-
-_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	0236be304ee52e7f179ed2f337075515	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
+_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
 _md5_=7105b082f83d35543de7af84b4fb5ec0
