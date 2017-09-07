@@ -7,6 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 RDEPEND=app-emulation/vagrant
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-2 src_compile:- src_install:-
 _eclasses_=bash-completion-r1	8e447753aaf658afa609fbf961d80ab7	git-2	195a672bfaf52d868442171c9469bbb6	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
 _md5_=41e6007e90518c8ba3e7fc9ab46fdaa9
